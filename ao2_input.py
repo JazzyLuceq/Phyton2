@@ -1,0 +1,5 @@
+n1 = input("Digite um número inteiro: ")
+n2 = input("Digite outro número inteiro: ")
+n1 = int(n1)
+n2 = int(n2)
+print (n1 + n2)
